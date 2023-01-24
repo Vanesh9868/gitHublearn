@@ -1,6 +1,6 @@
 package TC_11;
 
-public class TC_12 {
+public class T_11 {
 
 	public static void main(String[] args) {
 
